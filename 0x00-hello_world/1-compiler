@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE -c
+gcc $CFILE [D[D[D[D[D[D[D-[C[C[Cc $CFILE
