@@ -1,1 +1,1 @@
-Write a function that prints a buffer.
+Write a function that prints an integer.
