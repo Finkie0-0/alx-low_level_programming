@@ -1,9 +1,11 @@
 #include "main.h"
+
+int comp_close(int);
 /**
- * main - check the code
+ * main - Main function to copy files
  * @argc: The number of passed arguments
  * @argv: The pointers to array arguments
- * Return: 1 on sucess, exit on failure
+ * Return: 1 on success, exits on failure
  */
 int main(int argc, char *argv[])
 {
